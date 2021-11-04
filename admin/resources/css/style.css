@@ -134,7 +134,9 @@ a.remove-link:hover {
                 text-align: right;
                 line-height: 1.5em;
                 }
-
+.out{
+  font-size: 1.5rem;
+}
 /************ Sidebar Accordion Menu ************/
 
 #sidebar #main-nav {

@@ -1,0 +1,7 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+RewriteRule ^admin/login.html admin/login.php
+RewriteRule ^admin/index.html admin/index.php
+RewriteRule ^user/index.html user/index.php
+
+

@@ -14,6 +14,7 @@
 <meta name="description" content="Photography Website or Photo Gallery - free HTML CSS layout provided by TemplateMo.com" />
 
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="./login.css">
 
 <script type="text/javascript" src="jquery-1.2.6.min.js"></script>
 
@@ -23,6 +24,7 @@
 
 <body>
 
+<div id="login"><a href="../admin/login.php" style="color: red">Login</a></div>
 <div id="templatemo_container">
   <?php include "./subpages/section1.php" ?>
   <?php include "./subpages/section2.php" ?>
